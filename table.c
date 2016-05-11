@@ -1,0 +1,1 @@
+../Numerical_Lab1/table.c
